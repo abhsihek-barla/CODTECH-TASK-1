@@ -1,2 +1,6 @@
 # CODTECH-TASK-1
-This is about python project
+Name -AbhishekBarla
+Company- CODTECH IT SOLUTION
+Intern Id-CT6WDS438
+Duration- June to July
+Mentor- M.Santhosh Kumar
